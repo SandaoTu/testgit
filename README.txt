@@ -8,3 +8,5 @@ conflict test
 
 this is 
 this is two test
+
+this is stash test.
