@@ -1,7 +1,7 @@
 Git is a distributed version control system.
 
 git is a free software.
-this is di
+nihao
 this is tow
 this is tow
 conflict test
