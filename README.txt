@@ -10,3 +10,4 @@ this is
 this is two test
 
 this is stash test.
+this is stash test2.
