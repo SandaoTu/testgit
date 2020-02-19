@@ -4,4 +4,4 @@ git is a free software.
 this is diff
 this is one
 this is two
-creating a new branch is quick & simple
+creating a new branch is quick and simple
