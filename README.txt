@@ -3,5 +3,5 @@ this is one
 git is a free software.
 this is diff
 this is one
-this is two
+this is one
 creating a new branch is quick and simple
