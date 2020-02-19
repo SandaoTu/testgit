@@ -1,2 +1,4 @@
 Git is a distributed version control system.
-git is free software.
+this is one
+git is a free software.
+this is diff
