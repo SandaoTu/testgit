@@ -13,3 +13,5 @@ this is stash test.
 this is stash test2.
 
 this is test2
+
+thi is rebase test master
