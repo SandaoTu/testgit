@@ -15,4 +15,3 @@ this is stash test2.
 this is test2
 
 thi is rebase test master
-this is rebase test master2
