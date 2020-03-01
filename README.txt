@@ -8,3 +8,4 @@ conflict test
 
 this is 
 this is two test
+this is a new test.
