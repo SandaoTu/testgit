@@ -1,5 +1,5 @@
 # [1 Thisistest](#1-thisistest)  
-# [this is test2](#2-test2)  
+# [thisistest2](#2-test2)  
 * [3 Thisistest3](#3-this is test3)
 * [Python语言特性](#python语言特性)    
 test
@@ -15,7 +15,7 @@ test
 # 1 Thisistest  
 * this is test1  
 
-# this is test2  
+# thisistest2  
 * This is test2  
   
 
