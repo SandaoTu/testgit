@@ -1,6 +1,6 @@
 # [1 Thisistest](#1-thisistest)  
 # [thisistest2](#Thisistest2)  
-* [3 Thisistest3](#3-thisistest3)
+* [3 Thisistest3](#3-Thisistest3)
 * [Python语言特性](#python语言特性)    
 test
 test  
